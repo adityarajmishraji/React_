@@ -3,7 +3,7 @@ var React = require("react");
 function Heading() {
   return (
     <header>
-      <h1>DevTown</h1>
+      <h1>DevDexter</h1>
     </header>
   );
 }
