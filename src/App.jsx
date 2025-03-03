@@ -2,6 +2,7 @@ import Footer from "./Components/Footer";
 import Heading from "./Components/Heading";
 
 var React = require("react");
+
 function App() {
   return (
     <div>
@@ -15,3 +16,4 @@ function App() {
     </div>
   );
 }
+export default App;
